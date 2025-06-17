@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Python 101 for Hackers](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/cbelche4/Python-101-for-Hackers/blob/main/README.md))
+  - [Python 101 for Hackers](https://github.com/cbelche4/Python-101-for-Hackers/blob/main/README.md))
 
 <h2>Certifications</h2>
 
