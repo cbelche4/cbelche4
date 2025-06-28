@@ -4,6 +4,8 @@
 
 - <b>Python</b>
   - ([Python 101 for Hackers](https://github.com/cbelche4/Python-101-for-Hackers/blob/main/README.md))
+- <b>HTB SOC Analyst Skills Path</b>
+  -  ([HTB SOC Analyst Job Path]())
 
 <h2>Certifications</h2>
 
